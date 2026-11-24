@@ -2,9 +2,9 @@
 
 ## Informations étudiant·e
 
-- **Nom :**
+- **Nom :** Nguyen
 
-- **Prénom :**
+- **Prénom :** Thi Thuy Ha
 
 
 
@@ -95,3 +95,16 @@ Ajoutez une entrée à chaque jour de cours, la plus récente en haut.
 - **Problèmes rencontrés :**
 - **Prochaine étape :**
 - **Captures / liens :**
+
+23.11
+**Context du sujet:** 
+Mon projet s'intéresse à la recherche de soi, à la manière dont notre identité se construit et évolue avec nos expériences, tout en gardant un lien avec nos origines.
+Thématique: Identité personnelle, origines, mémoire et transformation,...	
+Def 
+Le dragon est une créature mythologique présente dans différentes cultures. Son apparence et sa signification varient selon les traditions. Au Vietnam, le dragon est notamment associé à la puissance, à la nature et aux origines. Il occupe une place importante dans la culture et l’art traditionnel.
+Pourquoi
+J’ai choisi le dragon parce qu’il fait partie de mon héritage culturel vietnamien. C’est un symbole (populaire) qui me permet d’aborder les questions d’origine, de mémoire et d’identité personnelle. Je souhaite aussi explorer sa forme, ses mouvements et ses possibilités de transformation à travers le dessin, l’animation et les outils numériques.
+context
+à la recherche de l’identité personnelle: comprendre d’où l’on vient, ce qui nous définit et comment notre identité évolue avec nos expériences. Le dragon représente un lien symbolique avec mes origines. Il accompagne cette réflexion sans que le projet soit uniquement centré sur la culture vietnamienne.
+// Dans les représentations traditionnelles vietnamiennes, le dragon possède généralement un corps long et sinueux, sans ailes. Il peut symboliser la puissance, la prospérité et les origines. Dans de nombreuses représentations occidentales, notamment françaises, le dragon est souvent représenté avec des ailes et associé à une créature dangereuse // Je ne cherche pas à reproduire un dragon traditionnel, mais à développer ma propre interprétation.
+
