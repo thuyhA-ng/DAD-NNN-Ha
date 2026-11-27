@@ -108,3 +108,13 @@ context
 à la recherche de l’identité personnelle: comprendre d’où l’on vient, ce qui nous définit et comment notre identité évolue avec nos expériences. Le dragon représente un lien symbolique avec mes origines. Il accompagne cette réflexion sans que le projet soit uniquement centré sur la culture vietnamienne.
 // Dans les représentations traditionnelles vietnamiennes, le dragon possède généralement un corps long et sinueux, sans ailes. Il peut symboliser la puissance, la prospérité et les origines. Dans de nombreuses représentations occidentales, notamment françaises, le dragon est souvent représenté avec des ailes et associé à une créature dangereuse // Je ne cherche pas à reproduire un dragon traditionnel, mais à développer ma propre interprétation.
 
+Projet 1: 
+
+
+
+img tracking script: https://hiukim.github.io/mind-ar-js-doc/  https://www.jsdelivr.com/package/npm/mind-ar 
+![screenshot](/source/testIMGtracking.png "track")
+
+Generate dragon scale
+link p5js: https://editor.p5js.org/ThuyHa/full/9R1mwE9gJ
+![screenshot](/source/Screenshot%202026-11-27%20120713.png "democodedrawmodel")
